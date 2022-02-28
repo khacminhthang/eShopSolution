@@ -10,3 +10,10 @@ C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\obj\D
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\obj\Debug\net5.0\eShopSolution.Application.dll
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\obj\Debug\net5.0\ref\eShopSolution.Application.dll
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\obj\Debug\net5.0\eShopSolution.Application.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.Data.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.Utilities.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.ViewModels.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.Data.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.Utilities.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.ViewModels.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\obj\Debug\net5.0\eShopSolution.Application.csproj.CopyComplete

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "iDrjldQHDxNpxTq1bCUw2d97kjgI9P5wShUDvKNooDDBDX5UzmgrETXCrStk8hUUMnOb5E7s15DF7pHdV+Tldw==",
+  "dgSpecHash": "XdYdMLysbcfyuPJpPLUn/wrje72j+SGwE2v7//gKn0MBSNgjixP0rm846P+VGdN2HbydEaDI39/3uIg+AOl5JQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.14\\microsoft.aspnetcore.cryptography.internal.5.0.14.nupkg.sha512",
+    "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.14\\microsoft.aspnetcore.cryptography.keyderivation.5.0.14.nupkg.sha512",
+    "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\5.0.14\\microsoft.aspnetcore.identity.entityframeworkcore.5.0.14.nupkg.sha512",
     "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.14\\microsoft.entityframeworkcore.5.0.14.nupkg.sha512",
     "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.14\\microsoft.entityframeworkcore.abstractions.5.0.14.nupkg.sha512",
@@ -24,6 +27,8 @@
     "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
     "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.extensions.identity.core\\5.0.14\\microsoft.extensions.identity.core.5.0.14.nupkg.sha512",
+    "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.extensions.identity.stores\\5.0.14\\microsoft.extensions.identity.stores.5.0.14.nupkg.sha512",
     "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",

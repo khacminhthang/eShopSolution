@@ -27,6 +27,169 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {
+                "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj"
+              },
+              "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj": {
+                "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj"
+              },
+              "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj"
+              },
+              "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj": {
+                "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
+        "projectName": "eShopSolution.Data",
+        "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
+        "packagesPath": "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KHOIDONG.VN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj",
+        "projectName": "eShopSolution.Utilities",
+        "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj",
+        "packagesPath": "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KHOIDONG.VN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -50,6 +213,123 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj",
+        "projectName": "eShopSolution.ViewModels",
+        "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KHOIDONG.VN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
+        "projectName": "eShopSolution.WebApp",
+        "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
+        "packagesPath": "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KHOIDONG.VN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

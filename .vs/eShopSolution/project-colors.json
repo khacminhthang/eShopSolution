@@ -25,7 +25,17 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "aec9d0c0-0dc9-481c-b058-fb0f657d3a74": {
+      "ProjectGuid": "aec9d0c0-0dc9-481c-b058-fb0f657d3a74",
+      "DisplayName": "eShopSolution.ViewModels",
+      "ColorIndex": 4
+    },
+    "f6f389c5-36b0-4eca-81ea-d24d0fb62a3d": {
+      "ProjectGuid": "f6f389c5-36b0-4eca-81ea-d24d0fb62a3d",
+      "DisplayName": "eShopSolution.Utilities",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }

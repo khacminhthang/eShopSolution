@@ -1,0 +1,12 @@
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ViewModels\bin\Debug\net5.0\eShopSolution.ViewModels.deps.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ViewModels\bin\Debug\net5.0\eShopSolution.ViewModels.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ViewModels\bin\Debug\net5.0\ref\eShopSolution.ViewModels.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ViewModels\bin\Debug\net5.0\eShopSolution.ViewModels.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ViewModels\obj\Debug\net5.0\eShopSolution.ViewModels.csproj.AssemblyReference.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ViewModels\obj\Debug\net5.0\eShopSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ViewModels\obj\Debug\net5.0\eShopSolution.ViewModels.AssemblyInfoInputs.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ViewModels\obj\Debug\net5.0\eShopSolution.ViewModels.AssemblyInfo.cs
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ViewModels\obj\Debug\net5.0\eShopSolution.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ViewModels\obj\Debug\net5.0\eShopSolution.ViewModels.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ViewModels\obj\Debug\net5.0\ref\eShopSolution.ViewModels.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ViewModels\obj\Debug\net5.0\eShopSolution.ViewModels.pdb
