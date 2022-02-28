@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj": {
+    "C:\\Users\\Asus\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj",
         "projectName": "eShopSolution.ViewModels",
-        "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj",
-        "packagesPath": "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KHOIDONG.VN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

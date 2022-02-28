@@ -10,3 +10,15 @@ C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\obj\Deb
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\obj\Debug\net5.0\eShopSolution.Utilities.dll
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\obj\Debug\net5.0\ref\eShopSolution.Utilities.dll
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\obj\Debug\net5.0\eShopSolution.Utilities.pdb
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\bin\Debug\net5.0\eShopSolution.Utilities.deps.json
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\bin\Debug\net5.0\eShopSolution.Utilities.dll
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\bin\Debug\net5.0\ref\eShopSolution.Utilities.dll
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\bin\Debug\net5.0\eShopSolution.Utilities.pdb
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\obj\Debug\net5.0\eShopSolution.Utilities.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\obj\Debug\net5.0\eShopSolution.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\obj\Debug\net5.0\eShopSolution.Utilities.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\obj\Debug\net5.0\eShopSolution.Utilities.AssemblyInfo.cs
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\obj\Debug\net5.0\eShopSolution.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\obj\Debug\net5.0\eShopSolution.Utilities.dll
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\obj\Debug\net5.0\ref\eShopSolution.Utilities.dll
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Utilities\obj\Debug\net5.0\eShopSolution.Utilities.pdb
