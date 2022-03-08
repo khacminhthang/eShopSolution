@@ -831,3 +831,5 @@ C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debu
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\eShopSolution.AdminApp.pdb
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\eShopSolution.AdminApp.genruntimeconfig.cache
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Pager\Default.cshtml.g.cs
