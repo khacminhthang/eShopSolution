@@ -46,3 +46,14 @@ C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Application\obj\Debug\ne
 C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Application\obj\Debug\net5.0\eShopSolution.Application.dll
 C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Application\obj\Debug\net5.0\ref\eShopSolution.Application.dll
 C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.Application\obj\Debug\net5.0\eShopSolution.Application.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.WebApp.Views.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.WebApp.Views.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.WebApp.deps.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.WebApp.runtimeconfig.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.WebApp.runtimeconfig.dev.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\appsettings.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.WebApp.StaticWebAssets.xml
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.WebApp.exe
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.WebApp.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.WebApp.pdb

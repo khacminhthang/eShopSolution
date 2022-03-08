@@ -77,3 +77,4 @@ C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.WebApp\obj\Debug\net5.0\
 C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.WebApp\obj\Debug\net5.0\eShopSolution.WebApp.pdb
 C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.WebApp\obj\Debug\net5.0\eShopSolution.WebApp.genruntimeconfig.cache
 C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.WebApp\obj\Debug\net5.0\eShopSolution.WebApp.csproj.CopyComplete
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.WebApp\bin\Debug\net5.0\eShopSolution.WebApp.StaticWebAssets.xml

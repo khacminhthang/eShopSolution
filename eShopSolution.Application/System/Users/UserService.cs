@@ -77,7 +77,8 @@ namespace eShopSolution.Application.System.Users
                 PhoneNumber = user.PhoneNumber,
                 FirstName = user.FirstName,
                 Id = user.Id,
-                LastName = user.LastName
+                LastName = user.LastName,
+                UserName = user.UserName
             };
             return new ApiSuccessResult<UserViewModel>(userVm);
         }

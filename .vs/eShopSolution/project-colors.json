@@ -35,7 +35,17 @@
       "ProjectGuid": "f6f389c5-36b0-4eca-81ea-d24d0fb62a3d",
       "DisplayName": "eShopSolution.Utilities",
       "ColorIndex": 5
+    },
+    "afb3d53f-9dc3-412c-89b0-563ea37b69a7": {
+      "ProjectGuid": "afb3d53f-9dc3-412c-89b0-563ea37b69a7",
+      "DisplayName": "eShopSolution.AdminApp",
+      "ColorIndex": 6
+    },
+    "2d7430a9-5c3c-482b-936d-59e74c665548": {
+      "ProjectGuid": "2d7430a9-5c3c-482b-936d-59e74c665548",
+      "DisplayName": "eShopSolution.BackendApi",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

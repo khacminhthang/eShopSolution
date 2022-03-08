@@ -74,6 +74,13 @@ namespace eShopSolution.AdminApp.Controllers
             return RedirectToAction("Error", "Home");
         }
 
+        [HttpGet]
+        public async Task<IActionResult> Details(Guid id)
+        {
+            var result = await _userApiClient.GetById(id);
+            return View(result.ResultObj);
+        }
+
         [HttpPost]
         public async Task<IActionResult> Edit(UserUpdateRequest request)
         {
