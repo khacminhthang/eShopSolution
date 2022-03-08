@@ -833,3 +833,4 @@ C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debu
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
 C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
 C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Pager\Default.cshtml.g.cs
+C:\Users\Asus\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
