@@ -840,3 +840,4 @@ C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debu
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\bin\Debug\net5.0\eShopSolution.Utilities.dll
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\bin\Debug\net5.0\eShopSolution.Utilities.pdb
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Navigation\Default.cshtml.g.cs
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
