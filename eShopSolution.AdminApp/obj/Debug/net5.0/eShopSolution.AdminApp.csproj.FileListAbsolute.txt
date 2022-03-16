@@ -1266,3 +1266,5 @@ C:\Users\LENOVO\Desktop\Study\eShopSolution\eShopSolution.AdminApp\obj\Debug\net
 C:\Users\LENOVO\Desktop\Study\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\eShopSolution.AdminApp.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\Study\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\ref\eShopSolution.AdminApp.dll
 C:\Users\LENOVO\Desktop\Study\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\Product\CategoryAssign.cshtml.g.cs

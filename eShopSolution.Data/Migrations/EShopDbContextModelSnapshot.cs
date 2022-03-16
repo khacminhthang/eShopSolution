@@ -180,7 +180,7 @@ namespace eShopSolution.Data.Migrations
                         new
                         {
                             Id = new Guid("8d04dce2-969a-435d-bba4-df3f325983dc"),
-                            ConcurrencyStamp = "2f4ef350-ea7a-4e3f-8ccb-1bf654c4a6cd",
+                            ConcurrencyStamp = "30ac03a2-e9ff-42d1-bb82-14507e561f96",
                             Description = "Administrator role",
                             Name = "admin",
                             NormalizedName = "admin"
@@ -257,7 +257,7 @@ namespace eShopSolution.Data.Migrations
                         {
                             Id = new Guid("69bd714f-9576-45ba-b5b7-f00649be00de"),
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "0c17a993-1f75-4bcb-bc25-ae19a1f41be8",
+                            ConcurrencyStamp = "ca945a9c-1e65-4840-9c05-b46ec9986a68",
                             Dob = new DateTime(1998, 3, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "tedu.international@gmail.com",
                             EmailConfirmed = true,
@@ -266,7 +266,7 @@ namespace eShopSolution.Data.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "tedu.international@gmail.com",
                             NormalizedUserName = "thang",
-                            PasswordHash = "AQAAAAEAACcQAAAAELh4Y3Q++yBcWG2JzCGxJMn/Ss1u8OSCnQlAk7f9OgLoTR2SMQrTM4xmSPVqGwMuXA==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEGUe13JFEGJV6U4cxe/Lhrvm2+hZ0Tew03IMSgxpU/T6J1rLL0HEFSH51pqcf691NA==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,
@@ -510,7 +510,7 @@ namespace eShopSolution.Data.Migrations
                     b.Property<DateTime>("OrderDate")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("timestamp without time zone")
-                        .HasDefaultValue(new DateTime(2022, 3, 14, 22, 11, 15, 332, DateTimeKind.Local).AddTicks(3802));
+                        .HasDefaultValue(new DateTime(2022, 3, 16, 15, 32, 16, 550, DateTimeKind.Local).AddTicks(2528));
 
                     b.Property<string>("ShipAddress")
                         .IsRequired()
@@ -601,7 +601,7 @@ namespace eShopSolution.Data.Migrations
                         new
                         {
                             Id = 1,
-                            DateCreated = new DateTime(2022, 3, 14, 22, 11, 15, 343, DateTimeKind.Local).AddTicks(5085),
+                            DateCreated = new DateTime(2022, 3, 16, 15, 32, 16, 562, DateTimeKind.Local).AddTicks(3342),
                             OriginalPrice = 100000m,
                             Price = 200000m,
                             Stock = 0,

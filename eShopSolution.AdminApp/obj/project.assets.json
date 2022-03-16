@@ -7530,19 +7530,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Study\\eShopSolution\\eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj",
+      "projectUniqueName": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj",
       "projectName": "eShopSolution.AdminApp",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\Study\\eShopSolution\\eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\Study\\eShopSolution\\eShopSolution.AdminApp\\obj\\",
+      "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.AdminApp\\eShopSolution.AdminApp.csproj",
+      "packagesPath": "C:\\Users\\KHOIDONG.VN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.AdminApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KHOIDONG.VN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7556,11 +7556,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\LENOVO\\Desktop\\Study\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj": {
-              "projectPath": "C:\\Users\\LENOVO\\Desktop\\Study\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj"
+            "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj": {
+              "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj"
             },
-            "C:\\Users\\LENOVO\\Desktop\\Study\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\LENOVO\\Desktop\\Study\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj"
+            "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj"
             }
           }
         }
@@ -7622,7 +7622,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
