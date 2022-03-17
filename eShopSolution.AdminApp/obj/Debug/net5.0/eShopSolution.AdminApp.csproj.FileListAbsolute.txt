@@ -1268,3 +1268,5 @@ C:\Users\LENOVO\Desktop\Study\eShopSolution\eShopSolution.AdminApp\obj\Debug\net
 C:\Users\LENOVO\Desktop\Study\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
 C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\obj\Debug\net5.0\Razor\Views\Product\CategoryAssign.cshtml.g.cs
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\bin\Debug\net5.0\eShopSolution.ApiIntegration.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.AdminApp\bin\Debug\net5.0\eShopSolution.ApiIntegration.pdb

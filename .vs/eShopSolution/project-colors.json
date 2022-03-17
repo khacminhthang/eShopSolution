@@ -45,7 +45,12 @@
       "ProjectGuid": "2d7430a9-5c3c-482b-936d-59e74c665548",
       "DisplayName": "eShopSolution.BackendApi",
       "ColorIndex": 7
+    },
+    "ec9a758c-14e1-4804-a585-5ce05da97e63": {
+      "ProjectGuid": "ec9a758c-14e1-4804-a585-5ce05da97e63",
+      "DisplayName": "eShopSolution.ApiIntegration",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }

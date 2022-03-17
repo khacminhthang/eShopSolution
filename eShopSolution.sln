@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShopSolution.WebApp", "eShopSolution.WebApp\eShopSolution.WebApp.csproj", "{0842EC9F-8F80-4FA1-8CBD-C20D5C86863D}"
 EndProject
@@ -21,7 +21,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Domain", "2.Domain", "{89
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Hosts", "3.Hosts", "{94E74724-8C86-4D65-BB31-E1AA6391061A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopSolution.AdminApp", "eShopSolution.AdminApp\eShopSolution.AdminApp.csproj", "{AFB3D53F-9DC3-412C-89B0-563EA37B69A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShopSolution.AdminApp", "eShopSolution.AdminApp\eShopSolution.AdminApp.csproj", "{AFB3D53F-9DC3-412C-89B0-563EA37B69A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopSolution.ApiIntegration", "eShopSolution.ApiIntegration\eShopSolution.ApiIntegration.csproj", "{EC9A758C-14E1-4804-A585-5CE05DA97E63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{AFB3D53F-9DC3-412C-89B0-563EA37B69A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFB3D53F-9DC3-412C-89B0-563EA37B69A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFB3D53F-9DC3-412C-89B0-563EA37B69A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9A758C-14E1-4804-A585-5CE05DA97E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9A758C-14E1-4804-A585-5CE05DA97E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9A758C-14E1-4804-A585-5CE05DA97E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9A758C-14E1-4804-A585-5CE05DA97E63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +75,7 @@ Global
 		{F6F389C5-36B0-4ECA-81EA-D24D0FB62A3D} = {DE055B3A-4501-4B92-8DAB-E464976251F0}
 		{2D7430A9-5C3C-482B-936D-59E74C665548} = {94E74724-8C86-4D65-BB31-E1AA6391061A}
 		{AFB3D53F-9DC3-412C-89B0-563EA37B69A7} = {94E74724-8C86-4D65-BB31-E1AA6391061A}
+		{EC9A758C-14E1-4804-A585-5CE05DA97E63} = {94E74724-8C86-4D65-BB31-E1AA6391061A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FBDA7399-AF44-4E4E-B4BE-3E99F30FB8E0}

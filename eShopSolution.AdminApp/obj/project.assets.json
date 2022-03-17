@@ -864,7 +864,7 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.2": {
+      "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
@@ -2255,6 +2255,24 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "eShopSolution.ApiIntegration/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Session": "2.2.0",
+          "Microsoft.IdentityModel.Tokens": "6.16.0",
+          "Newtonsoft.Json": "13.0.1",
+          "System.IdentityModel.Tokens.Jwt": "6.16.0",
+          "eShopSolution.Utilities": "1.0.0",
+          "eShopSolution.ViewModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/eShopSolution.ApiIntegration.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eShopSolution.ApiIntegration.dll": {}
         }
       },
       "eShopSolution.Utilities/1.0.0": {
@@ -3693,10 +3711,10 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/11.0.2": {
-      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
       "type": "package",
-      "path": "newtonsoft.json/11.0.2",
+      "path": "newtonsoft.json/13.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3715,12 +3733,9 @@
         "lib/netstandard1.3/Newtonsoft.Json.xml",
         "lib/netstandard2.0/Newtonsoft.Json.dll",
         "lib/netstandard2.0/Newtonsoft.Json.xml",
-        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.11.0.2.nupkg.sha512",
-        "newtonsoft.json.nuspec"
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -7505,6 +7520,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "eShopSolution.ApiIntegration/1.0.0": {
+      "type": "project",
+      "path": "../eShopSolution.ApiIntegration/eShopSolution.ApiIntegration.csproj",
+      "msbuildProject": "../eShopSolution.ApiIntegration/eShopSolution.ApiIntegration.csproj"
+    },
     "eShopSolution.Utilities/1.0.0": {
       "type": "project",
       "path": "../eShopSolution.Utilities/eShopSolution.Utilities.csproj",
@@ -7525,6 +7545,7 @@
       "Microsoft.IdentityModel.Tokens >= 6.16.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.2",
       "System.IdentityModel.Tokens.Jwt >= 6.16.0",
+      "eShopSolution.ApiIntegration >= 1.0.0",
       "eShopSolution.Utilities >= 1.0.0",
       "eShopSolution.ViewModels >= 1.0.0"
     ]
@@ -7556,6 +7577,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ApiIntegration\\eShopSolution.ApiIntegration.csproj": {
+              "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.ApiIntegration\\eShopSolution.ApiIntegration.csproj"
+            },
             "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj": {
               "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj"
             },

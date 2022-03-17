@@ -87,3 +87,7 @@ C:\Users\LENOVO\Desktop\Study\eShopSolution\eShopSolution.Application\obj\Debug\
 C:\Users\LENOVO\Desktop\Study\eShopSolution\eShopSolution.Application\obj\Debug\net5.0\refint\eShopSolution.Application.dll
 C:\Users\LENOVO\Desktop\Study\eShopSolution\eShopSolution.Application\obj\Debug\net5.0\eShopSolution.Application.pdb
 C:\Users\LENOVO\Desktop\Study\eShopSolution\eShopSolution.Application\obj\Debug\net5.0\ref\eShopSolution.Application.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\en\eShopSolution.WebApp.resources.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\vi\eShopSolution.WebApp.resources.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.ApiIntegration.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.Application\bin\Debug\net5.0\eShopSolution.ApiIntegration.pdb

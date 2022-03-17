@@ -1,0 +1,17 @@
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\net5.0\eShopSolution.ApiIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\net5.0\eShopSolution.ApiIntegration.AssemblyInfoInputs.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\net5.0\eShopSolution.ApiIntegration.AssemblyInfo.cs
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\net5.0\eShopSolution.ApiIntegration.csproj.CoreCompileInputs.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\net5.0\eShopSolution.ApiIntegration.deps.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\net5.0\eShopSolution.ApiIntegration.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\net5.0\ref\eShopSolution.ApiIntegration.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\net5.0\eShopSolution.ApiIntegration.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\net5.0\eShopSolution.Utilities.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\net5.0\eShopSolution.ViewModels.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\net5.0\eShopSolution.Utilities.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\net5.0\eShopSolution.ViewModels.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\net5.0\eShopSolution.ApiIntegration.csproj.AssemblyReference.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\net5.0\eShopSolution.ApiIntegration.csproj.CopyComplete
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\net5.0\eShopSolution.ApiIntegration.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\net5.0\ref\eShopSolution.ApiIntegration.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\net5.0\eShopSolution.ApiIntegration.pdb
